@@ -1,0 +1,5 @@
+email,cpf,telefone,data
+joao.silva@exemplo.com,123.456.789-00,(11) 98765-4321,15/05/2023
+email_errado.com,98765432100,21988887777,32/13/2024
+maria@teste.pt,111.222.333-44,(31) 99999-8888,10-12-2023
+lucas@falho.com,123-456-789-00,(11) 9999-9999,data-invalida
